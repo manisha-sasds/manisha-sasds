@@ -49,4 +49,3 @@ I’m a passionate **Data Scientist & Engineer** focused on solving real-world p
 
 🔍 [HousePricePrediction](https://github.com/manishasas/HousePricePrediction)
 
-<img width="451" height="686" alt="image" src="https://github.com/user-attachments/assets/1a446d7c-ef29-408f-9144-47203f3abd51" />
